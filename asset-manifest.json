@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/smartphones/static/css/main.f7c7c04d.css",
+    "main.js": "/smartphones/static/js/main.82b3c52b.js",
+    "static/media/newClock_img.png": "/smartphones/static/media/newClock_img.4522d7a62eaeb4de9faa.png",
+    "static/media/newTablets_img.png": "/smartphones/static/media/newTablets_img.cc6286786f0c814d27f0.png",
+    "static/media/laptop_img.png": "/smartphones/static/media/laptop_img.434ab40c33cd4f5bbbd7.png",
+    "static/media/Smart2_img.png": "/smartphones/static/media/Smart2_img.2e4a808624d11b23acef.png",
+    "index.html": "/smartphones/index.html",
+    "main.f7c7c04d.css.map": "/smartphones/static/css/main.f7c7c04d.css.map",
+    "main.82b3c52b.js.map": "/smartphones/static/js/main.82b3c52b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c7c04d.css",
+    "static/js/main.82b3c52b.js"
+  ]
+}
